@@ -1,2 +1,3 @@
 "# MainframeGame" 
-Game Design Cousre Group Project 
+
+Game Design Course Group Project 
